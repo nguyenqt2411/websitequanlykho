@@ -29,6 +29,14 @@
                         Người dùng
                     </a>
                 <?php } ?>
+                <a class="nav-link" href="hethan.php">
+                    <div class="sb-nav-link-icon"><i class="fas fa-question"></i></div>
+                    Gần hết hạn
+                </a>
+                <a class="nav-link" href="thongke.php">
+                    <div class="sb-nav-link-icon"><i class="fas fa-chart-bar"></i></div>
+                    Thống kê
+                </a>
             </div>
         </div>
     </nav>
